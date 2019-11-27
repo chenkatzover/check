@@ -12,6 +12,7 @@ public class CircleTest {
 			System.out.println(q);
 			System.out.println(c.getPerimeter());
 			System.out.println(c.getArea());
+			System.out.println("omer");
 		}
 
 	}
